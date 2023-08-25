@@ -34,6 +34,7 @@ from `any` to `UpdateAction[]`. Fix affected tests.
 
 ### Part 2
 
-In the [task-2/src/adapters/OrderProvider.ts](task-2/src/adapters/OrderProvider.ts), create a second
-function, `getOrder`, that calls the same endpoint with the GET method and without the body. Please write appropriate
-unit tests in the [task-2/test/adapters/OrderProvider.test.ts] for your new function.
+In the [task-2/src/adapters/OrderProvider.ts](task-2/src/adapters/OrderProvider.ts), you can find the `updateOrder`
+method that updates the order. In the [task-2/src/adapters/OrderProvider.ts](task-2/src/adapters/OrderProvider.ts),
+create a second function, `getOrder`, that calls the same endpoint with the GET method and without the body. Please
+write appropriate unit tests in the [task-2/test/adapters/OrderProvider.test.ts] for your new function.
