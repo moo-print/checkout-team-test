@@ -4,7 +4,6 @@
     "qs": "^6.11.2"
   },
   "devDependencies": {
-    "@moo-print/ecommerce-prettier": "^1.0.2",
     "@types/jest": "^29.5.2",
     "@types/qs": "^6.9.7",
     "@typescript-eslint/eslint-plugin": "^6.1.0",
@@ -24,7 +23,6 @@
   "scripts": {
     "test": "jest"
   },
-  "prettier": "@moo-print/ecommerce-prettier",
   "jest": {
     "roots": [
       "<rootDir>/src/",
